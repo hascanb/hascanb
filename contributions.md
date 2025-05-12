@@ -7,3 +7,4 @@
 - 2025-05-09T12:48:21: feat: implement auth flow
 - 2025-05-10T14:54:22: chore: clean imports
 - 2025-05-12T17:07:59: feat: add pagination
+- 2025-05-12T10:35:18: fix: form validation
