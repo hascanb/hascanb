@@ -6,3 +6,4 @@
 - 2025-05-08T21:51:10: feat: add export feature
 - 2025-05-09T12:48:21: feat: implement auth flow
 - 2025-05-10T14:54:22: chore: clean imports
+- 2025-05-12T17:07:59: feat: add pagination
