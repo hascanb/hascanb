@@ -8,3 +8,4 @@
 - 2025-05-10T14:54:22: chore: clean imports
 - 2025-05-12T17:07:59: feat: add pagination
 - 2025-05-12T10:35:18: fix: form validation
+- 2025-05-17T21:18:05: fix: memory leak
