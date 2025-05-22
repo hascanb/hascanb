@@ -13,3 +13,4 @@
 - 2025-05-19T14:22:13: fix: null check
 - 2025-05-22T11:34:46: chore: update config
 - 2025-05-22T11:29:24: fix: null check
+- 2025-05-22T19:44:35: fix: memory leak
