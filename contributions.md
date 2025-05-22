@@ -11,3 +11,4 @@
 - 2025-05-17T21:18:05: fix: memory leak
 - 2025-05-19T19:53:23: fix: correct validation
 - 2025-05-19T14:22:13: fix: null check
+- 2025-05-22T11:34:46: chore: update config
