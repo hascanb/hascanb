@@ -15,3 +15,4 @@
 - 2025-05-22T11:29:24: fix: null check
 - 2025-05-22T19:44:35: fix: memory leak
 - 2025-05-26T21:20:25: fix: null check
+- 2025-05-27T20:20:13: docs: update changelog
