@@ -16,3 +16,4 @@
 - 2025-05-22T19:44:35: fix: memory leak
 - 2025-05-26T21:20:25: fix: null check
 - 2025-05-27T20:20:13: docs: update changelog
+- 2025-05-27T16:25:56: docs: update changelog
