@@ -20,3 +20,4 @@
 - 2025-05-27T16:09:16: perf: optimize query
 - 2025-05-28T17:16:47: fix: race condition
 - 2025-05-28T15:57:37: fix: date formatting
+- 2025-05-28T14:14:08: refactor: use hooks
