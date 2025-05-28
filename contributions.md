@@ -18,3 +18,4 @@
 - 2025-05-27T20:20:13: docs: update changelog
 - 2025-05-27T16:25:56: docs: update changelog
 - 2025-05-27T16:09:16: perf: optimize query
+- 2025-05-28T17:16:47: fix: race condition
