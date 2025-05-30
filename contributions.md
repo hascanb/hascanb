@@ -24,3 +24,4 @@
 - 2025-05-29T22:07:09: fix: form validation
 - 2025-05-30T15:38:04: feat: add pagination
 - 2025-05-30T15:38:29: feat: add drag and drop
+- 2025-05-30T13:35:55: feat: add new component
