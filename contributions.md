@@ -22,3 +22,4 @@
 - 2025-05-28T15:57:37: fix: date formatting
 - 2025-05-28T14:14:08: refactor: use hooks
 - 2025-05-29T22:07:09: fix: form validation
+- 2025-05-30T15:38:04: feat: add pagination
