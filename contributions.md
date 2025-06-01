@@ -26,3 +26,4 @@
 - 2025-05-30T15:38:29: feat: add drag and drop
 - 2025-05-30T13:35:55: feat: add new component
 - 2025-06-01T21:41:21: fix: handle edge case
+- 2025-06-01T13:27:10: perf: lazy loading
