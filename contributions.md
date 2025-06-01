@@ -25,3 +25,4 @@
 - 2025-05-30T15:38:04: feat: add pagination
 - 2025-05-30T15:38:29: feat: add drag and drop
 - 2025-05-30T13:35:55: feat: add new component
+- 2025-06-01T21:41:21: fix: handle edge case
