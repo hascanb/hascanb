@@ -28,3 +28,4 @@
 - 2025-06-01T21:41:21: fix: handle edge case
 - 2025-06-01T13:27:10: perf: lazy loading
 - 2025-06-02T17:48:11: refactor: use hooks
+- 2025-06-02T10:55:40: feat: add filters
