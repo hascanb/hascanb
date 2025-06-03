@@ -31,3 +31,4 @@
 - 2025-06-02T10:55:40: feat: add filters
 - 2025-06-02T22:40:32: chore: clean imports
 - 2025-06-02T12:09:23: fix: correct validation
+- 2025-06-03T09:38:20: fix: token refresh
