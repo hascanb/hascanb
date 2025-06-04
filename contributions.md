@@ -37,3 +37,4 @@
 - 2025-06-03T09:15:56: feat: add chart component
 - 2025-06-03T10:05:46: fix: token refresh
 - 2025-06-03T22:04:48: fix: scroll behavior
+- 2025-06-04T19:30:35: fix: correct validation
