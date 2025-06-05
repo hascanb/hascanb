@@ -40,3 +40,4 @@
 - 2025-06-04T19:30:35: fix: correct validation
 - 2025-06-04T13:33:55: chore: clean imports
 - 2025-06-04T15:13:59: fix: scroll behavior
+- 2025-06-05T20:19:25: docs: update changelog
