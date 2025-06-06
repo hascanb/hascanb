@@ -43,3 +43,4 @@
 - 2025-06-05T20:19:25: docs: update changelog
 - 2025-06-05T14:28:57: feat: add drag and drop
 - 2025-06-05T16:07:15: fix: memory leak
+- 2025-06-06T18:35:14: fix: race condition
