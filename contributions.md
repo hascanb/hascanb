@@ -45,3 +45,4 @@
 - 2025-06-05T16:07:15: fix: memory leak
 - 2025-06-06T18:35:14: fix: race condition
 - 2025-06-06T12:00:04: fix: form validation
+- 2025-06-07T09:55:21: docs: update readme
