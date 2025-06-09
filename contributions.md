@@ -47,3 +47,4 @@
 - 2025-06-06T12:00:04: fix: form validation
 - 2025-06-07T09:55:21: docs: update readme
 - 2025-06-09T12:34:08: feat: add chart component
+- 2025-06-09T18:30:15: feat: add notifications
