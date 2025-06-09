@@ -48,3 +48,4 @@
 - 2025-06-07T09:55:21: docs: update readme
 - 2025-06-09T12:34:08: feat: add chart component
 - 2025-06-09T18:30:15: feat: add notifications
+- 2025-06-09T21:26:12: feat: implement auth flow
