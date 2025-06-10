@@ -52,3 +52,4 @@
 - 2025-06-09T10:42:27: fix: cors issue
 - 2025-06-09T15:26:29: style: update spacing
 - 2025-06-10T09:25:46: feat: implement caching
+- 2025-06-10T21:55:06: chore: update config
