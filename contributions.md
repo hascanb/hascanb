@@ -57,3 +57,4 @@
 - 2025-06-11T13:29:15: docs: update readme
 - 2025-06-11T16:51:55: style: dark mode tweak
 - 2025-06-11T10:03:41: fix: scroll behavior
+- 2025-06-11T22:00:05: chore: update config
