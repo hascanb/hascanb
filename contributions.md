@@ -62,3 +62,4 @@
 - 2025-06-12T09:10:24: feat: add new component
 - 2025-06-12T15:16:59: perf: lazy loading
 - 2025-06-12T13:27:44: style: dark mode tweak
+- 2025-06-12T19:45:31: feat: add dashboard module
