@@ -60,3 +60,4 @@
 - 2025-06-11T22:00:05: chore: update config
 - 2025-06-11T11:26:31: feat: add notifications
 - 2025-06-12T09:10:24: feat: add new component
+- 2025-06-12T15:16:59: perf: lazy loading
