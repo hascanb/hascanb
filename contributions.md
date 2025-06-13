@@ -69,3 +69,4 @@
 - 2025-06-13T22:33:10: style: update spacing
 - 2025-06-13T17:05:54: refactor: extract helper
 - 2025-06-13T10:38:04: chore: update config
+- 2025-06-13T15:07:56: feat: add chart component
