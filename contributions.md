@@ -65,3 +65,4 @@
 - 2025-06-12T19:45:31: feat: add dashboard module
 - 2025-06-12T12:18:13: style: update spacing
 - 2025-06-13T09:47:20: style: update spacing
+- 2025-06-13T09:37:30: refactor: use hooks
