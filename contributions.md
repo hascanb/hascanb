@@ -71,3 +71,4 @@
 - 2025-06-13T10:38:04: chore: update config
 - 2025-06-13T15:07:56: feat: add chart component
 - 2025-06-17T18:33:20: feat: add search
+- 2025-06-17T12:42:45: test: add unit tests
