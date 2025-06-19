@@ -73,3 +73,4 @@
 - 2025-06-17T18:33:20: feat: add search
 - 2025-06-17T12:42:45: test: add unit tests
 - 2025-06-17T12:16:25: perf: optimize query
+- 2025-06-19T21:59:04: feat: add new component
