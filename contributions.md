@@ -75,3 +75,4 @@
 - 2025-06-17T12:16:25: perf: optimize query
 - 2025-06-19T21:59:04: feat: add new component
 - 2025-06-19T16:39:36: feat: implement auth flow
+- 2025-06-20T17:16:08: fix: cors issue
