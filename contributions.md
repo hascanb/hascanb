@@ -77,3 +77,4 @@
 - 2025-06-19T16:39:36: feat: implement auth flow
 - 2025-06-20T17:16:08: fix: cors issue
 - 2025-06-23T16:53:34: feat: add filters
+- 2025-06-27T13:59:42: feat: implement auth flow
