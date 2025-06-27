@@ -79,3 +79,4 @@
 - 2025-06-23T16:53:34: feat: add filters
 - 2025-06-27T13:59:42: feat: implement auth flow
 - 2025-06-27T11:16:07: feat: implement auth flow
+- 2025-06-27T20:35:09: fix: null check
