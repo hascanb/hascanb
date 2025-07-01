@@ -83,3 +83,4 @@
 - 2025-06-30T19:54:16: refactor: use hooks
 - 2025-06-30T16:16:57: style: update spacing
 - 2025-06-30T10:40:27: fix: null check
+- 2025-07-01T21:08:40: feat: add search
