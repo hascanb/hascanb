@@ -86,3 +86,4 @@
 - 2025-07-01T21:08:40: feat: add search
 - 2025-07-01T11:47:28: style: dark mode tweak
 - 2025-07-04T11:34:02: docs: add API docs
+- 2025-07-04T18:35:09: feat: add export feature
