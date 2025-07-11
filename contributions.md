@@ -89,3 +89,4 @@
 - 2025-07-04T18:35:09: feat: add export feature
 - 2025-07-04T11:02:19: docs: add API docs
 - 2025-07-09T19:06:22: style: dark mode tweak
+- 2025-07-11T20:09:59: chore: update config
