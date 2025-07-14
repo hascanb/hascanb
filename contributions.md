@@ -92,3 +92,4 @@
 - 2025-07-11T20:09:59: chore: update config
 - 2025-07-11T22:10:51: refactor: extract helper
 - 2025-07-11T15:01:11: feat: implement caching
+- 2025-07-14T13:10:50: feat: implement auth flow
