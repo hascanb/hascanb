@@ -96,3 +96,4 @@
 - 2025-07-14T15:55:02: feat: add notifications
 - 2025-07-14T12:12:52: perf: lazy loading
 - 2025-07-15T12:01:42: style: adjust colors
+- 2025-07-15T15:21:17: docs: update readme
