@@ -95,3 +95,4 @@
 - 2025-07-14T13:10:50: feat: implement auth flow
 - 2025-07-14T15:55:02: feat: add notifications
 - 2025-07-14T12:12:52: perf: lazy loading
+- 2025-07-15T12:01:42: style: adjust colors
