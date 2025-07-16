@@ -99,3 +99,4 @@
 - 2025-07-15T15:21:17: docs: update readme
 - 2025-07-15T21:17:22: docs: update changelog
 - 2025-07-16T14:01:07: feat: add search
+- 2025-07-16T11:37:16: refactor: clean up utils
