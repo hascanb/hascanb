@@ -101,3 +101,4 @@
 - 2025-07-16T14:01:07: feat: add search
 - 2025-07-16T11:37:16: refactor: clean up utils
 - 2025-07-16T10:38:27: fix: cors issue
+- 2025-07-16T20:50:20: feat: add export feature
