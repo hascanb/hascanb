@@ -105,3 +105,4 @@
 - 2025-07-16T18:32:07: feat: add pagination
 - 2025-07-16T18:12:16: refactor: clean up utils
 - 2025-07-17T17:59:51: fix: scroll behavior
+- 2025-07-17T19:46:47: style: adjust colors
