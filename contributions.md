@@ -104,3 +104,4 @@
 - 2025-07-16T20:50:20: feat: add export feature
 - 2025-07-16T18:32:07: feat: add pagination
 - 2025-07-16T18:12:16: refactor: clean up utils
+- 2025-07-17T17:59:51: fix: scroll behavior
