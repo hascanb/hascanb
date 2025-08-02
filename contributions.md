@@ -108,3 +108,4 @@
 - 2025-07-17T19:46:47: style: adjust colors
 - 2025-07-18T19:58:21: feat: add settings page
 - 2025-07-18T14:42:54: fix: handle edge case
+- 2025-08-02T13:13:27: fix: race condition
