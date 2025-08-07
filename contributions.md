@@ -111,3 +111,4 @@
 - 2025-08-02T13:13:27: fix: race condition
 - 2025-08-07T11:42:05: refactor: simplify logic
 - 2025-08-07T17:42:40: feat: add settings page
+- 2025-08-07T14:05:52: chore: update config
