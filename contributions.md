@@ -110,3 +110,4 @@
 - 2025-07-18T14:42:54: fix: handle edge case
 - 2025-08-02T13:13:27: fix: race condition
 - 2025-08-07T11:42:05: refactor: simplify logic
+- 2025-08-07T17:42:40: feat: add settings page
