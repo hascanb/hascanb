@@ -116,3 +116,4 @@
 - 2025-08-12T19:36:12: feat: add pagination
 - 2025-08-12T16:25:15: feat: add dashboard module
 - 2025-08-14T21:27:14: refactor: extract helper
+- 2025-08-20T21:29:42: feat: add drag and drop
