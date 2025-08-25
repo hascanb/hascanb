@@ -120,3 +120,4 @@
 - 2025-08-25T15:53:58: style: dark mode tweak
 - 2025-08-25T16:57:10: feat: add notifications
 - 2025-08-25T16:16:48: chore: update config
+- 2025-08-25T22:40:17: feat: add drag and drop
