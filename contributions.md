@@ -125,3 +125,4 @@
 - 2025-08-25T16:04:45: refactor: simplify logic
 - 2025-08-26T14:57:34: chore: bump dependencies
 - 2025-08-26T11:09:14: feat: add pagination
+- 2025-08-26T20:09:45: feat: integrate API
