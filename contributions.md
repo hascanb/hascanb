@@ -123,3 +123,4 @@
 - 2025-08-25T22:40:17: feat: add drag and drop
 - 2025-08-25T16:40:15: fix: null check
 - 2025-08-25T16:04:45: refactor: simplify logic
+- 2025-08-26T14:57:34: chore: bump dependencies
