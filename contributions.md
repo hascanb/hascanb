@@ -124,3 +124,4 @@
 - 2025-08-25T16:40:15: fix: null check
 - 2025-08-25T16:04:45: refactor: simplify logic
 - 2025-08-26T14:57:34: chore: bump dependencies
+- 2025-08-26T11:09:14: feat: add pagination
