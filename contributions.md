@@ -133,3 +133,4 @@
 - 2025-08-27T15:30:00: fix: cors issue
 - 2025-08-27T13:48:24: chore: lint fixes
 - 2025-08-28T21:38:57: fix: memory leak
+- 2025-08-28T16:14:17: feat: add export feature
