@@ -141,3 +141,4 @@
 - 2025-09-01T11:55:29: refactor: extract helper
 - 2025-09-01T09:16:24: test: add unit tests
 - 2025-09-01T12:29:20: feat: implement caching
+- 2025-09-01T21:56:24: fix: null check
