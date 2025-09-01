@@ -140,3 +140,4 @@
 - 2025-08-28T11:39:34: fix: resolve routing issue
 - 2025-09-01T11:55:29: refactor: extract helper
 - 2025-09-01T09:16:24: test: add unit tests
+- 2025-09-01T12:29:20: feat: implement caching
