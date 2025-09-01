@@ -138,3 +138,4 @@
 - 2025-08-28T19:43:51: fix: date formatting
 - 2025-08-28T20:10:53: perf: lazy loading
 - 2025-08-28T11:39:34: fix: resolve routing issue
+- 2025-09-01T11:55:29: refactor: extract helper
