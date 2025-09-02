@@ -145,3 +145,4 @@
 - 2025-09-01T21:53:26: feat: add search
 - 2025-09-02T09:47:34: style: update spacing
 - 2025-09-02T14:14:41: docs: update readme
+- 2025-09-02T21:41:02: fix: resolve routing issue
