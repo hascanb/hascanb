@@ -144,3 +144,4 @@
 - 2025-09-01T21:56:24: fix: null check
 - 2025-09-01T21:53:26: feat: add search
 - 2025-09-02T09:47:34: style: update spacing
+- 2025-09-02T14:14:41: docs: update readme
