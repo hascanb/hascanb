@@ -147,3 +147,4 @@
 - 2025-09-02T14:14:41: docs: update readme
 - 2025-09-02T21:41:02: fix: resolve routing issue
 - 2025-09-02T12:12:53: fix: resolve routing issue
+- 2025-09-02T18:09:15: perf: optimize query
