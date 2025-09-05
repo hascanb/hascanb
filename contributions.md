@@ -155,3 +155,4 @@
 - 2025-09-05T15:45:12: docs: update readme
 - 2025-09-05T18:44:53: fix: form validation
 - 2025-09-05T12:06:44: feat: add filters
+- 2025-09-05T22:43:38: fix: handle edge case
