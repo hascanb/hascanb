@@ -152,3 +152,4 @@
 - 2025-09-03T21:23:10: chore: clean imports
 - 2025-09-04T21:52:10: feat: add filters
 - 2025-09-04T10:37:01: feat: add filters
+- 2025-09-05T15:45:12: docs: update readme
