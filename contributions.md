@@ -156,3 +156,4 @@
 - 2025-09-05T18:44:53: fix: form validation
 - 2025-09-05T12:06:44: feat: add filters
 - 2025-09-05T22:43:38: fix: handle edge case
+- 2025-09-05T21:36:50: refactor: clean up utils
