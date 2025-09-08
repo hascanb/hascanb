@@ -159,3 +159,4 @@
 - 2025-09-05T21:36:50: refactor: clean up utils
 - 2025-09-08T19:21:00: chore: lint fixes
 - 2025-09-08T22:31:06: feat: add export feature
+- 2025-09-08T14:40:57: perf: lazy loading
