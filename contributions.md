@@ -157,3 +157,4 @@
 - 2025-09-05T12:06:44: feat: add filters
 - 2025-09-05T22:43:38: fix: handle edge case
 - 2025-09-05T21:36:50: refactor: clean up utils
+- 2025-09-08T19:21:00: chore: lint fixes
