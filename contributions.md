@@ -160,3 +160,4 @@
 - 2025-09-08T19:21:00: chore: lint fixes
 - 2025-09-08T22:31:06: feat: add export feature
 - 2025-09-08T14:40:57: perf: lazy loading
+- 2025-09-10T17:41:17: feat: add settings page
