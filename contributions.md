@@ -161,3 +161,4 @@
 - 2025-09-08T22:31:06: feat: add export feature
 - 2025-09-08T14:40:57: perf: lazy loading
 - 2025-09-10T17:41:17: feat: add settings page
+- 2025-09-10T21:58:34: feat: add notifications
