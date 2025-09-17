@@ -165,3 +165,4 @@
 - 2025-09-10T16:27:52: fix: race condition
 - 2025-09-11T22:59:05: fix: null check
 - 2025-09-16T16:54:20: refactor: extract helper
+- 2025-09-17T21:16:21: fix: null check
