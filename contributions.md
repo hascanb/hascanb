@@ -170,3 +170,4 @@
 - 2025-09-19T10:15:46: chore: lint fixes
 - 2025-09-24T10:18:14: fix: date formatting
 - 2025-09-26T14:30:35: feat: add drag and drop
+- 2025-09-26T14:27:47: style: dark mode tweak
