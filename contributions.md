@@ -172,3 +172,4 @@
 - 2025-09-26T14:30:35: feat: add drag and drop
 - 2025-09-26T14:27:47: style: dark mode tweak
 - 2025-09-26T14:22:44: perf: lazy loading
+- 2025-09-29T14:07:47: fix: scroll behavior
