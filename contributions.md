@@ -174,3 +174,4 @@
 - 2025-09-26T14:22:44: perf: lazy loading
 - 2025-09-29T14:07:47: fix: scroll behavior
 - 2025-10-02T16:17:46: fix: race condition
+- 2025-10-02T21:33:38: refactor: simplify logic
