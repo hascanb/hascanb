@@ -177,3 +177,4 @@
 - 2025-10-02T21:33:38: refactor: simplify logic
 - 2025-10-02T10:53:12: refactor: simplify logic
 - 2025-10-03T13:00:45: fix: scroll behavior
+- 2025-10-04T09:35:18: perf: optimize query
