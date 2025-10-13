@@ -182,3 +182,4 @@
 - 2025-10-08T09:16:55: feat: add notifications
 - 2025-10-09T15:31:04: feat: add chart component
 - 2025-10-11T21:36:19: chore: bump dependencies
+- 2025-10-13T18:38:50: feat: add settings page
