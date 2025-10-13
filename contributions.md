@@ -183,3 +183,4 @@
 - 2025-10-09T15:31:04: feat: add chart component
 - 2025-10-11T21:36:19: chore: bump dependencies
 - 2025-10-13T18:38:50: feat: add settings page
+- 2025-10-13T12:49:33: feat: add pagination
