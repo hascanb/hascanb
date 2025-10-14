@@ -185,3 +185,4 @@
 - 2025-10-13T18:38:50: feat: add settings page
 - 2025-10-13T12:49:33: feat: add pagination
 - 2025-10-14T13:55:37: feat: add export feature
+- 2025-10-14T13:36:39: style: update spacing
