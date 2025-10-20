@@ -186,3 +186,4 @@
 - 2025-10-13T12:49:33: feat: add pagination
 - 2025-10-14T13:55:37: feat: add export feature
 - 2025-10-14T13:36:39: style: update spacing
+- 2025-10-20T12:11:35: docs: update readme
