@@ -187,3 +187,4 @@
 - 2025-10-14T13:55:37: feat: add export feature
 - 2025-10-14T13:36:39: style: update spacing
 - 2025-10-20T12:11:35: docs: update readme
+- 2025-10-20T11:00:26: fix: responsive layout
