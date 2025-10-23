@@ -201,3 +201,4 @@
 - 2025-10-22T20:25:17: refactor: use hooks
 - 2025-10-23T10:38:02: feat: add export feature
 - 2025-10-23T20:20:38: feat: add search
+- 2025-10-23T09:05:14: feat: add chart component
