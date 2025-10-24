@@ -206,3 +206,4 @@
 - 2025-10-23T18:02:48: refactor: extract helper
 - 2025-10-24T13:11:37: feat: add export feature
 - 2025-10-24T19:52:31: chore: bump dependencies
+- 2025-10-24T16:22:26: feat: implement caching
