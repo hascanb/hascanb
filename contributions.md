@@ -209,3 +209,4 @@
 - 2025-10-24T16:22:26: feat: implement caching
 - 2025-10-24T14:42:06: fix: correct validation
 - 2025-10-24T14:26:44: fix: token refresh
+- 2025-10-27T09:29:05: test: add unit tests
