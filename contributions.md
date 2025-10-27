@@ -213,3 +213,4 @@
 - 2025-10-27T13:20:07: fix: date formatting
 - 2025-10-27T22:32:52: feat: add new component
 - 2025-10-27T19:55:34: perf: lazy loading
+- 2025-10-27T15:03:12: feat: add drag and drop
