@@ -211,3 +211,4 @@
 - 2025-10-24T14:26:44: fix: token refresh
 - 2025-10-27T09:29:05: test: add unit tests
 - 2025-10-27T13:20:07: fix: date formatting
+- 2025-10-27T22:32:52: feat: add new component
