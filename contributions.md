@@ -217,3 +217,4 @@
 - 2025-10-27T14:39:48: fix: token refresh
 - 2025-10-28T12:17:35: perf: optimize query
 - 2025-10-28T13:28:56: fix: token refresh
+- 2025-10-29T21:15:45: fix: correct validation
