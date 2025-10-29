@@ -221,3 +221,4 @@
 - 2025-10-29T13:35:00: style: dark mode tweak
 - 2025-10-29T15:05:14: fix: handle edge case
 - 2025-10-29T16:07:41: feat: add dashboard module
+- 2025-10-29T16:59:45: refactor: simplify logic
