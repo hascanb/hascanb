@@ -228,3 +228,4 @@
 - 2025-10-30T17:47:56: perf: optimize query
 - 2025-10-30T22:04:17: chore: lint fixes
 - 2025-10-30T14:59:50: refactor: use hooks
+- 2025-10-31T13:46:19: fix: race condition
