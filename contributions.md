@@ -230,3 +230,4 @@
 - 2025-10-30T14:59:50: refactor: use hooks
 - 2025-10-31T13:46:19: fix: race condition
 - 2025-10-31T18:42:31: feat: add dashboard module
+- 2025-11-03T15:29:59: test: add unit tests
