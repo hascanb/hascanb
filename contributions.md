@@ -233,3 +233,4 @@
 - 2025-11-03T15:29:59: test: add unit tests
 - 2025-11-03T22:12:44: chore: update config
 - 2025-11-03T18:24:14: chore: lint fixes
+- 2025-11-04T16:45:58: feat: add pagination
