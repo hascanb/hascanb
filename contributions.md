@@ -236,3 +236,4 @@
 - 2025-11-04T16:45:58: feat: add pagination
 - 2025-11-04T15:42:50: docs: update changelog
 - 2025-11-04T11:31:02: perf: optimize query
+- 2025-11-05T14:55:06: fix: responsive layout
