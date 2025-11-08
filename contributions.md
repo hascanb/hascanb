@@ -239,3 +239,4 @@
 - 2025-11-05T14:55:06: fix: responsive layout
 - 2025-11-05T10:33:58: perf: lazy loading
 - 2025-11-05T09:46:09: chore: lint fixes
+- 2025-11-08T14:39:44: fix: date formatting
