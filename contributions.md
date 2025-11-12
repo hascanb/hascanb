@@ -245,3 +245,4 @@
 - 2025-11-11T22:34:02: feat: add settings page
 - 2025-11-12T19:58:18: fix: memory leak
 - 2025-11-12T20:05:27: feat: implement auth flow
+- 2025-11-12T21:40:45: feat: implement auth flow
