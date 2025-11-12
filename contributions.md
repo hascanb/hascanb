@@ -244,3 +244,4 @@
 - 2025-11-11T19:45:56: fix: token refresh
 - 2025-11-11T22:34:02: feat: add settings page
 - 2025-11-12T19:58:18: fix: memory leak
+- 2025-11-12T20:05:27: feat: implement auth flow
