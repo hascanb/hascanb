@@ -249,3 +249,4 @@
 - 2025-11-13T13:57:01: refactor: clean up utils
 - 2025-11-13T14:50:03: refactor: simplify logic
 - 2025-11-13T14:23:27: feat: add dashboard module
+- 2025-11-14T18:43:50: refactor: extract helper
