@@ -253,3 +253,4 @@
 - 2025-11-14T11:11:05: feat: add settings page
 - 2025-11-17T11:14:29: fix: form validation
 - 2025-11-17T13:29:16: feat: add new component
+- 2025-11-17T21:29:57: refactor: simplify logic
