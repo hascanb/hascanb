@@ -262,3 +262,4 @@
 - 2025-11-24T22:43:49: style: update spacing
 - 2025-11-24T18:47:31: refactor: simplify logic
 - 2025-11-26T12:40:12: feat: add settings page
+- 2025-11-26T13:43:48: perf: optimize query
