@@ -263,3 +263,4 @@
 - 2025-11-24T18:47:31: refactor: simplify logic
 - 2025-11-26T12:40:12: feat: add settings page
 - 2025-11-26T13:43:48: perf: optimize query
+- 2025-12-01T14:46:08: chore: bump dependencies
