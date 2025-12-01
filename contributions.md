@@ -265,3 +265,4 @@
 - 2025-11-26T13:43:48: perf: optimize query
 - 2025-12-01T14:46:08: chore: bump dependencies
 - 2025-12-01T13:20:47: chore: lint fixes
+- 2025-12-01T11:12:08: fix: scroll behavior
