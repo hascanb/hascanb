@@ -266,3 +266,4 @@
 - 2025-12-01T14:46:08: chore: bump dependencies
 - 2025-12-01T13:20:47: chore: lint fixes
 - 2025-12-01T11:12:08: fix: scroll behavior
+- 2025-12-03T13:53:10: feat: add search
