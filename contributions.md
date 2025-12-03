@@ -267,3 +267,4 @@
 - 2025-12-01T13:20:47: chore: lint fixes
 - 2025-12-01T11:12:08: fix: scroll behavior
 - 2025-12-03T13:53:10: feat: add search
+- 2025-12-03T22:30:51: refactor: simplify logic
