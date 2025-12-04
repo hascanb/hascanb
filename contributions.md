@@ -269,3 +269,4 @@
 - 2025-12-03T13:53:10: feat: add search
 - 2025-12-03T22:30:51: refactor: simplify logic
 - 2025-12-03T20:55:21: fix: handle edge case
+- 2025-12-04T11:48:14: fix: date formatting
