@@ -273,3 +273,4 @@
 - 2025-12-08T13:34:07: perf: lazy loading
 - 2025-12-08T14:43:47: feat: add search
 - 2025-12-09T10:43:14: feat: add notifications
+- 2025-12-09T09:39:56: style: dark mode tweak
