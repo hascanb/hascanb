@@ -275,3 +275,4 @@
 - 2025-12-09T10:43:14: feat: add notifications
 - 2025-12-09T09:39:56: style: dark mode tweak
 - 2025-12-09T14:58:39: fix: memory leak
+- 2025-12-09T19:04:40: perf: lazy loading
