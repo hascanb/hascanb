@@ -277,3 +277,4 @@
 - 2025-12-09T14:58:39: fix: memory leak
 - 2025-12-09T19:04:40: perf: lazy loading
 - 2025-12-11T10:08:02: refactor: clean up utils
+- 2025-12-11T13:31:07: feat: implement auth flow
