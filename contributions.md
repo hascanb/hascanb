@@ -283,3 +283,4 @@
 - 2025-12-11T15:37:47: feat: add dashboard module
 - 2025-12-15T09:44:23: feat: integrate API
 - 2025-12-15T16:28:15: docs: add API docs
+- 2025-12-15T10:43:23: fix: scroll behavior
