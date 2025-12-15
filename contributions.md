@@ -281,3 +281,4 @@
 - 2025-12-11T12:56:34: perf: optimize query
 - 2025-12-11T15:29:23: fix: scroll behavior
 - 2025-12-11T15:37:47: feat: add dashboard module
+- 2025-12-15T09:44:23: feat: integrate API
