@@ -287,3 +287,4 @@
 - 2025-12-15T19:22:03: fix: date formatting
 - 2025-12-16T22:52:29: chore: bump dependencies
 - 2025-12-16T19:13:41: fix: form validation
+- 2025-12-17T09:50:21: chore: update config
