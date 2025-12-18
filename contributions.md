@@ -294,3 +294,4 @@
 - 2025-12-18T09:17:54: feat: add dashboard module
 - 2025-12-18T11:34:16: refactor: extract helper
 - 2025-12-18T10:42:55: fix: resolve routing issue
+- 2025-12-18T11:00:22: chore: update config
