@@ -292,3 +292,4 @@
 - 2025-12-18T12:37:13: fix: memory leak
 - 2025-12-18T14:49:09: chore: clean imports
 - 2025-12-18T09:17:54: feat: add dashboard module
+- 2025-12-18T11:34:16: refactor: extract helper
