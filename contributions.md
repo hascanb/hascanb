@@ -289,3 +289,4 @@
 - 2025-12-16T19:13:41: fix: form validation
 - 2025-12-17T09:50:21: chore: update config
 - 2025-12-17T11:50:36: feat: integrate API
+- 2025-12-18T12:37:13: fix: memory leak
