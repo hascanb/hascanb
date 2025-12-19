@@ -296,3 +296,4 @@
 - 2025-12-18T10:42:55: fix: resolve routing issue
 - 2025-12-18T11:00:22: chore: update config
 - 2025-12-19T11:16:03: perf: optimize query
+- 2025-12-19T20:26:33: fix: handle edge case
