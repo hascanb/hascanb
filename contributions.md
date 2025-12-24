@@ -300,3 +300,4 @@
 - 2025-12-23T16:32:14: feat: add settings page
 - 2025-12-24T17:19:29: docs: update changelog
 - 2025-12-24T09:03:30: fix: date formatting
+- 2025-12-24T15:43:06: fix: token refresh
