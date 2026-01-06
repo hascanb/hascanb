@@ -302,3 +302,4 @@
 - 2025-12-24T09:03:30: fix: date formatting
 - 2025-12-24T15:43:06: fix: token refresh
 - 2026-01-06T10:50:44: fix: handle edge case
+- 2026-01-06T22:41:41: style: dark mode tweak
