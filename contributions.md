@@ -304,3 +304,4 @@
 - 2026-01-06T10:50:44: fix: handle edge case
 - 2026-01-06T22:41:41: style: dark mode tweak
 - 2026-01-08T12:26:21: perf: lazy loading
+- 2026-01-08T15:26:46: feat: implement auth flow
