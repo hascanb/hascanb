@@ -303,3 +303,4 @@
 - 2025-12-24T15:43:06: fix: token refresh
 - 2026-01-06T10:50:44: fix: handle edge case
 - 2026-01-06T22:41:41: style: dark mode tweak
+- 2026-01-08T12:26:21: perf: lazy loading
