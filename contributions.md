@@ -307,3 +307,4 @@
 - 2026-01-08T15:26:46: feat: implement auth flow
 - 2026-01-09T19:16:23: feat: add dashboard module
 - 2026-01-09T19:59:30: docs: update readme
+- 2026-01-10T10:27:06: docs: add API docs
