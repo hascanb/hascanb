@@ -312,3 +312,4 @@
 - 2026-01-19T10:36:32: feat: integrate API
 - 2026-01-19T11:42:30: fix: memory leak
 - 2026-01-19T22:06:22: style: dark mode tweak
+- 2026-01-19T14:07:48: fix: null check
