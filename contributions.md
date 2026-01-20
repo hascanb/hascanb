@@ -317,3 +317,4 @@
 - 2026-01-20T18:43:41: style: dark mode tweak
 - 2026-01-20T09:38:59: fix: null check
 - 2026-01-20T09:11:17: feat: add filters
+- 2026-01-20T14:22:00: refactor: extract helper
