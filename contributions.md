@@ -313,3 +313,4 @@
 - 2026-01-19T11:42:30: fix: memory leak
 - 2026-01-19T22:06:22: style: dark mode tweak
 - 2026-01-19T14:07:48: fix: null check
+- 2026-01-20T22:35:49: feat: add settings page
