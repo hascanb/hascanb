@@ -320,3 +320,4 @@
 - 2026-01-20T14:22:00: refactor: extract helper
 - 2026-01-22T10:09:47: fix: form validation
 - 2026-01-22T09:05:47: feat: add drag and drop
+- 2026-01-22T12:24:26: perf: lazy loading
