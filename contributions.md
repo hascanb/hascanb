@@ -322,3 +322,4 @@
 - 2026-01-22T09:05:47: feat: add drag and drop
 - 2026-01-22T12:24:26: perf: lazy loading
 - 2026-01-22T14:10:23: feat: add filters
+- 2026-01-22T20:20:49: feat: add chart component
