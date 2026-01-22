@@ -318,3 +318,4 @@
 - 2026-01-20T09:38:59: fix: null check
 - 2026-01-20T09:11:17: feat: add filters
 - 2026-01-20T14:22:00: refactor: extract helper
+- 2026-01-22T10:09:47: fix: form validation
