@@ -324,3 +324,4 @@
 - 2026-01-22T14:10:23: feat: add filters
 - 2026-01-22T20:20:49: feat: add chart component
 - 2026-01-23T11:10:48: feat: add settings page
+- 2026-01-23T09:43:05: fix: null check
