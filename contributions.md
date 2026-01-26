@@ -327,3 +327,4 @@
 - 2026-01-23T09:43:05: fix: null check
 - 2026-01-26T13:13:48: refactor: use hooks
 - 2026-01-26T10:22:27: fix: handle edge case
+- 2026-01-26T13:43:43: fix: race condition
