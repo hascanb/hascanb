@@ -331,3 +331,4 @@
 - 2026-01-26T16:33:42: feat: add filters
 - 2026-01-26T09:14:25: chore: clean imports
 - 2026-01-27T13:13:49: perf: optimize query
+- 2026-01-27T21:16:18: test: add unit tests
