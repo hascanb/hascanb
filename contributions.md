@@ -330,3 +330,4 @@
 - 2026-01-26T13:43:43: fix: race condition
 - 2026-01-26T16:33:42: feat: add filters
 - 2026-01-26T09:14:25: chore: clean imports
+- 2026-01-27T13:13:49: perf: optimize query
