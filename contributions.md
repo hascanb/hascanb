@@ -333,3 +333,4 @@
 - 2026-01-27T13:13:49: perf: optimize query
 - 2026-01-27T21:16:18: test: add unit tests
 - 2026-01-27T10:00:31: feat: add export feature
+- 2026-01-28T17:45:14: refactor: use hooks
