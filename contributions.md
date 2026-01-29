@@ -342,3 +342,4 @@
 - 2026-01-29T14:10:51: feat: add settings page
 - 2026-01-29T16:53:44: docs: add API docs
 - 2026-01-29T10:27:54: feat: implement auth flow
+- 2026-01-29T12:27:37: fix: date formatting
