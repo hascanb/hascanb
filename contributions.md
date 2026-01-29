@@ -340,3 +340,4 @@
 - 2026-01-28T22:20:36: feat: add export feature
 - 2026-01-29T13:07:25: fix: resolve routing issue
 - 2026-01-29T14:10:51: feat: add settings page
+- 2026-01-29T16:53:44: docs: add API docs
