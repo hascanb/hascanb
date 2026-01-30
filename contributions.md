@@ -347,3 +347,4 @@
 - 2026-01-30T12:21:49: fix: correct validation
 - 2026-01-30T10:32:40: fix: handle edge case
 - 2026-01-30T17:32:12: fix: cors issue
+- 2026-01-30T14:46:52: docs: update changelog
