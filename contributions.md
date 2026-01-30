@@ -344,3 +344,4 @@
 - 2026-01-29T10:27:54: feat: implement auth flow
 - 2026-01-29T12:27:37: fix: date formatting
 - 2026-01-30T22:19:47: feat: implement caching
+- 2026-01-30T12:21:49: fix: correct validation
