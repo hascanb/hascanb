@@ -346,3 +346,4 @@
 - 2026-01-30T22:19:47: feat: implement caching
 - 2026-01-30T12:21:49: fix: correct validation
 - 2026-01-30T10:32:40: fix: handle edge case
+- 2026-01-30T17:32:12: fix: cors issue
