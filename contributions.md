@@ -349,3 +349,4 @@
 - 2026-01-30T17:32:12: fix: cors issue
 - 2026-01-30T14:46:52: docs: update changelog
 - 2026-02-02T11:38:09: docs: update changelog
+- 2026-02-03T16:29:48: feat: add chart component
