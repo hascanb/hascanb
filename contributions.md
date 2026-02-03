@@ -351,3 +351,4 @@
 - 2026-02-02T11:38:09: docs: update changelog
 - 2026-02-03T16:29:48: feat: add chart component
 - 2026-02-03T21:37:28: feat: add chart component
+- 2026-02-03T19:40:39: test: add unit tests
