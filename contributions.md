@@ -353,3 +353,4 @@
 - 2026-02-03T21:37:28: feat: add chart component
 - 2026-02-03T19:40:39: test: add unit tests
 - 2026-02-06T16:28:40: feat: add filters
+- 2026-02-09T13:29:28: refactor: clean up utils
