@@ -355,3 +355,4 @@
 - 2026-02-06T16:28:40: feat: add filters
 - 2026-02-09T13:29:28: refactor: clean up utils
 - 2026-02-10T10:41:55: chore: bump dependencies
+- 2026-02-10T18:38:32: feat: add pagination
