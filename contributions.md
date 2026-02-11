@@ -357,3 +357,4 @@
 - 2026-02-10T10:41:55: chore: bump dependencies
 - 2026-02-10T18:38:32: feat: add pagination
 - 2026-02-11T21:47:57: refactor: clean up utils
+- 2026-02-11T16:58:51: feat: add chart component
