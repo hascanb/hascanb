@@ -361,3 +361,4 @@
 - 2026-02-11T19:12:20: chore: clean imports
 - 2026-02-12T09:28:06: feat: implement caching
 - 2026-02-14T09:15:45: fix: responsive layout
+- 2026-02-16T11:23:23: refactor: simplify logic
