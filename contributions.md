@@ -369,3 +369,4 @@
 - 2026-02-19T10:37:42: feat: add dashboard module
 - 2026-02-19T14:19:41: fix: date formatting
 - 2026-02-20T10:19:35: feat: add pagination
+- 2026-02-20T19:50:21: perf: optimize query
