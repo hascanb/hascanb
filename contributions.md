@@ -370,3 +370,4 @@
 - 2026-02-19T14:19:41: fix: date formatting
 - 2026-02-20T10:19:35: feat: add pagination
 - 2026-02-20T19:50:21: perf: optimize query
+- 2026-02-20T19:44:53: feat: add drag and drop
