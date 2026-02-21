@@ -371,3 +371,4 @@
 - 2026-02-20T10:19:35: feat: add pagination
 - 2026-02-20T19:50:21: perf: optimize query
 - 2026-02-20T19:44:53: feat: add drag and drop
+- 2026-02-21T17:23:01: docs: add API docs
