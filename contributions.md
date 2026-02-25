@@ -376,3 +376,4 @@
 - 2026-02-23T11:09:04: refactor: simplify logic
 - 2026-02-25T22:47:56: feat: add drag and drop
 - 2026-02-25T09:42:21: feat: add settings page
+- 2026-02-25T11:38:24: feat: add dashboard module
