@@ -374,3 +374,4 @@
 - 2026-02-21T17:23:01: docs: add API docs
 - 2026-02-21T13:11:13: feat: implement caching
 - 2026-02-23T11:09:04: refactor: simplify logic
+- 2026-02-25T22:47:56: feat: add drag and drop
