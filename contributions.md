@@ -378,3 +378,4 @@
 - 2026-02-25T09:42:21: feat: add settings page
 - 2026-02-25T11:38:24: feat: add dashboard module
 - 2026-02-26T21:39:51: fix: correct validation
+- 2026-02-26T20:28:02: chore: lint fixes
