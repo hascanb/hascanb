@@ -382,3 +382,4 @@
 - 2026-02-26T14:43:46: chore: update config
 - 2026-03-02T17:15:19: feat: add notifications
 - 2026-03-02T22:12:23: feat: add chart component
+- 2026-03-02T16:29:49: refactor: simplify logic
