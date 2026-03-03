@@ -384,3 +384,4 @@
 - 2026-03-02T22:12:23: feat: add chart component
 - 2026-03-02T16:29:49: refactor: simplify logic
 - 2026-03-03T17:26:10: style: adjust colors
+- 2026-03-03T21:38:08: feat: add search
