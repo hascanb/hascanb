@@ -386,3 +386,4 @@
 - 2026-03-03T17:26:10: style: adjust colors
 - 2026-03-03T21:38:08: feat: add search
 - 2026-03-03T09:41:30: docs: add API docs
+- 2026-03-03T17:59:06: feat: add drag and drop
