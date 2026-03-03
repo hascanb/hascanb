@@ -387,3 +387,4 @@
 - 2026-03-03T21:38:08: feat: add search
 - 2026-03-03T09:41:30: docs: add API docs
 - 2026-03-03T17:59:06: feat: add drag and drop
+- 2026-03-03T22:07:18: chore: bump dependencies
