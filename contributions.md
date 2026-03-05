@@ -392,3 +392,4 @@
 - 2026-03-05T10:58:14: fix: responsive layout
 - 2026-03-05T14:59:01: chore: lint fixes
 - 2026-03-05T09:25:32: docs: add API docs
+- 2026-03-05T12:24:05: docs: add API docs
