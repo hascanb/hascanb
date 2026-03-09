@@ -401,3 +401,4 @@
 - 2026-03-07T22:09:35: chore: clean imports
 - 2026-03-09T12:19:07: style: update spacing
 - 2026-03-09T12:26:40: feat: add settings page
+- 2026-03-09T16:04:07: fix: token refresh
