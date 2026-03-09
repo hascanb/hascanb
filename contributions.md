@@ -402,3 +402,4 @@
 - 2026-03-09T12:19:07: style: update spacing
 - 2026-03-09T12:26:40: feat: add settings page
 - 2026-03-09T16:04:07: fix: token refresh
+- 2026-03-09T18:34:01: fix: form validation
