@@ -404,3 +404,4 @@
 - 2026-03-09T16:04:07: fix: token refresh
 - 2026-03-09T18:34:01: fix: form validation
 - 2026-03-10T20:09:18: feat: add export feature
+- 2026-03-10T09:39:22: chore: update config
