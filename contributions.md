@@ -408,3 +408,4 @@
 - 2026-03-10T18:26:11: chore: bump dependencies
 - 2026-03-11T10:33:34: refactor: use hooks
 - 2026-03-11T21:32:35: fix: resolve routing issue
+- 2026-03-11T15:55:30: refactor: clean up utils
