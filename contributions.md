@@ -411,3 +411,4 @@
 - 2026-03-11T15:55:30: refactor: clean up utils
 - 2026-03-11T19:24:23: feat: add search
 - 2026-03-12T21:04:22: chore: update config
+- 2026-03-12T20:42:40: feat: implement auth flow
