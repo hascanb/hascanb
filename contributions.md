@@ -413,3 +413,4 @@
 - 2026-03-12T21:04:22: chore: update config
 - 2026-03-12T20:42:40: feat: implement auth flow
 - 2026-03-12T21:37:47: feat: implement caching
+- 2026-03-12T11:02:22: fix: scroll behavior
