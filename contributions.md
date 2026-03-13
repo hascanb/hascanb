@@ -416,3 +416,4 @@
 - 2026-03-12T11:02:22: fix: scroll behavior
 - 2026-03-13T22:49:43: perf: lazy loading
 - 2026-03-13T20:30:40: refactor: extract helper
+- 2026-03-13T21:08:04: perf: lazy loading
