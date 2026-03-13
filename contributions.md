@@ -414,3 +414,4 @@
 - 2026-03-12T20:42:40: feat: implement auth flow
 - 2026-03-12T21:37:47: feat: implement caching
 - 2026-03-12T11:02:22: fix: scroll behavior
+- 2026-03-13T22:49:43: perf: lazy loading
