@@ -417,3 +417,4 @@
 - 2026-03-13T22:49:43: perf: lazy loading
 - 2026-03-13T20:30:40: refactor: extract helper
 - 2026-03-13T21:08:04: perf: lazy loading
+- 2026-03-14T09:50:12: refactor: clean up utils
