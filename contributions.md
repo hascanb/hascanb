@@ -419,3 +419,4 @@
 - 2026-03-13T21:08:04: perf: lazy loading
 - 2026-03-14T09:50:12: refactor: clean up utils
 - 2026-03-16T22:34:30: feat: add search
+- 2026-03-16T09:48:41: style: adjust colors
