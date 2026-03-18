@@ -421,3 +421,4 @@
 - 2026-03-16T22:34:30: feat: add search
 - 2026-03-16T09:48:41: style: adjust colors
 - 2026-03-17T22:41:21: fix: null check
+- 2026-03-18T15:56:25: fix: responsive layout
