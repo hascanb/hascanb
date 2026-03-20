@@ -425,3 +425,4 @@
 - 2026-03-18T15:21:11: fix: token refresh
 - 2026-03-20T13:51:05: feat: add export feature
 - 2026-03-20T10:27:38: refactor: extract helper
+- 2026-03-20T17:18:20: feat: implement auth flow
