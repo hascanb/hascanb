@@ -427,3 +427,4 @@
 - 2026-03-20T10:27:38: refactor: extract helper
 - 2026-03-20T17:18:20: feat: implement auth flow
 - 2026-03-21T13:28:38: feat: add export feature
+- 2026-03-21T11:44:28: fix: cors issue
