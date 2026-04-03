@@ -431,3 +431,4 @@
 - 2026-03-26T21:03:04: fix: form validation
 - 2026-03-26T15:23:32: fix: correct validation
 - 2026-03-26T09:09:54: chore: clean imports
+- 2026-04-03T19:28:23: docs: add API docs
