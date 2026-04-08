@@ -434,3 +434,4 @@
 - 2026-04-03T19:28:23: docs: add API docs
 - 2026-04-05T17:23:25: test: add unit tests
 - 2026-04-07T09:47:11: fix: token refresh
+- 2026-04-08T10:16:49: feat: add search
