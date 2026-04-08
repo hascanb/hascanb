@@ -435,3 +435,4 @@
 - 2026-04-05T17:23:25: test: add unit tests
 - 2026-04-07T09:47:11: fix: token refresh
 - 2026-04-08T10:16:49: feat: add search
+- 2026-04-08T20:28:13: feat: add settings page
