@@ -439,3 +439,4 @@
 - 2026-04-08T13:44:58: fix: token refresh
 - 2026-04-09T22:04:28: refactor: extract helper
 - 2026-04-12T19:22:45: docs: update readme
+- 2026-04-12T17:34:18: feat: add filters
