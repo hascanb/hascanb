@@ -27,12 +27,12 @@
 
 ### &nbsp; 🧑‍💻 Hakkımda
 
-&nbsp;&nbsp; 🏙️ &nbsp; İstanbul, Türkiye'den çalışıyorum \
-&nbsp;&nbsp; 🚀 &nbsp; **ARF Teknoloji**'de Yazılım Geliştirici \
-&nbsp;&nbsp; 🧭 &nbsp; **Labz Tech**'te Yazılım Proje Yöneticisi \
-&nbsp;&nbsp; ⚡ &nbsp; Kurumsal dijital altyapıları sıfırdan tasarlayıp ürüne dönüştürüyorum \
-&nbsp;&nbsp; 🤖 &nbsp; AI ajanlarıyla geliştirme süreçlerini otomatize ediyorum \
-&nbsp;&nbsp; 🎯 &nbsp; SaaS, Lojistik & FinTech ekosistemlerinde uzmanım
+&nbsp;&nbsp; 🏙️ &nbsp; İstanbul, Türkiye'de çalışıyorum. \
+&nbsp;&nbsp; 🚀 &nbsp; **ARF Teknoloji**'de Yazılım Geliştiriciyim. \
+&nbsp;&nbsp; 🧭 &nbsp; **Labz Tech**'te Yazılım Proje Yöneticisiyim. \
+&nbsp;&nbsp; ⚡ &nbsp; Kurumsal dijital altyapıları sıfırdan tasarlayıp ürüne dönüştürüyorum. \
+&nbsp;&nbsp; 🤖 &nbsp; AI ajanlarıyla geliştirme süreçlerini otomatize ediyorum. \
+&nbsp;&nbsp; 🎯 &nbsp; SaaS, Lojistik & FinTech ekosistemlerinde uzmanım.
 
 <br clear="right"/>
 
