@@ -242,48 +242,6 @@
 </table>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ARCHITECTURE -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<br/>
-
-<div align="center">
-
-## 🏗 &nbsp; Mimari Yaklaşımım
-
-</div>
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#06D6A0', 'primaryTextColor': '#fff', 'primaryBorderColor': '#04A77D', 'lineColor': '#8338EC', 'secondaryColor': '#118AB2', 'tertiaryColor': '#1a1b27'}}}%%
-flowchart LR
-    subgraph CLIENT ["🖥️ Client"]
-        A["Next.js\nReact\nTypeScript"]
-    end
-    subgraph API ["🔀 API Layer"]
-        B["Node.js\nRESTful API"]
-        C["Auth\nRBAC • JWT"]
-    end
-    subgraph SERVICES ["⚙️ Services"]
-        D["Business Logic\nMikroservisler"]
-        E["AI Agents\nOrchestration"]
-    end
-    subgraph DATA ["💾 Data"]
-        F[("PostgreSQL\nPrisma")]
-        G[("Redis\nCache")]
-    end
-    subgraph DEPLOY ["☁️ Deploy"]
-        H["Vercel\nDocker\nSupabase"]
-    end
-
-    CLIENT --> API
-    B --> C
-    API --> SERVICES
-    D --> DATA
-    E --> DATA
-    DATA --> DEPLOY
-```
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- DOMAIN EXPERTISE -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
