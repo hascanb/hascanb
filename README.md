@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:06D6A0,100:8338EC&height=200&section=header&text=Hasan%20Can%20BUDAK&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Project%20Manager&descSize=16&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:aff33e,100:0f172a&height=200&section=header&text=Hasan%20Can%20BUDAK&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Project%20Manager&descSize=16&descAlignY=58" />
 
 <!-- SOCIAL BADGES -->
 <br/>
@@ -12,8 +12,8 @@
 [![LinkedIn](https://img.shields.io/badge/-hascanb-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hascanb/)
 [![Instagram](https://img.shields.io/badge/-hascanb-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/hascanb)
 [![X](https://img.shields.io/badge/-@hascanbu-000000?style=flat&logo=x&logoColor=white)](https://x.com/hascanbu)
-[![Email](https://img.shields.io/badge/-hasancanbudak@gmail.com-06D6A0?style=flat&logo=gmail&logoColor=white)](mailto:hasancanbudak@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=hascanb&color=06D6A0&style=flat&label=visitors)](https://github.com/hascanb)
+[![Email](https://img.shields.io/badge/-hasancanbudak@gmail.com-aff33e?style=flat&logo=gmail&logoColor=0f172a)](mailto:hasancanbudak@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=hascanb&color=aff33e&style=flat&label=visitors)](https://github.com/hascanb)
 
 </div>
 
@@ -37,7 +37,7 @@
 <br clear="right"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=06D6A0&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=%E2%9A%A1+Kar%C4%B1%C5%9F%C4%B1k+i%C5%9F+s%C3%BCre%C3%A7lerini+dijital+%C3%BCr%C3%BCne+d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCr%C3%BCm;%F0%9F%8F%97%EF%B8%8F+%C3%96l%C3%A7eklenebilir+ve+s%C3%BCrd%C3%BCr%C3%BClebilir+mimari+kurar%C4%B1m;%F0%9F%A4%96+AI+ajanlar%C4%B1yla+geli%C5%9Ftirme+s%C3%BCrelerini+k%C4%B1salt%C4%B1r%C4%B1m" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=aff33e&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=%E2%9A%A1+Kar%C4%B1%C5%9F%C4%B1k+i%C5%9F+s%C3%BCre%C3%A7lerini+dijital+%C3%BCr%C3%BCne+d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCr%C3%BCm;%F0%9F%8F%97%EF%B8%8F+%C3%96l%C3%A7eklenebilir+ve+s%C3%BCrd%C3%BCr%C3%BClebilir+mimari+kurar%C4%B1m;%F0%9F%A4%96+AI+ajanlar%C4%B1yla+geli%C5%9Ftirme+s%C3%BCrelerini+k%C4%B1salt%C4%B1r%C4%B1m" alt="Typing SVG" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -47,7 +47,7 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=1&section=header" width="100%"/>
 
 ## 🛠️ &nbsp; Kullandığım Teknolojiler
 
@@ -145,11 +145,11 @@
 <tr>
 <td width="50%">
 
-### <img src="https://img.shields.io/badge/01-06D6A0?style=flat-square" /> Arf Workspace
+### <img src="https://img.shields.io/badge/01-aff33e?style=flat-square&logoColor=0f172a" /> Arf Workspace
 
 > Lojistik, kurye ve depo yönetimi süreçlerini optimize eden modüler kurumsal platform
 
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs)
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=fff)
 ![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=fff)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
@@ -161,11 +161,11 @@
 </td>
 <td width="50%">
 
-### <img src="https://img.shields.io/badge/02-118AB2?style=flat-square" /> FingineOS
+### <img src="https://img.shields.io/badge/02-334155?style=flat-square" /> FingineOS
 
 > Nakit akışı simülasyonu yapan çok katmanlı Fintech Engine
 
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs)
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=fff)
 
@@ -178,7 +178,7 @@
 <tr>
 <td width="50%">
 
-### <img src="https://img.shields.io/badge/03-8338EC?style=flat-square" /> TAA API
+### <img src="https://img.shields.io/badge/03-0f172a?style=flat-square" /> TAA API
 
 > Türkiye adres verileri SaaS servisi — İl'den Kapı No'ya
 
@@ -193,13 +193,13 @@
 </td>
 <td width="50%">
 
-### <img src="https://img.shields.io/badge/04-FFD166?style=flat-square&logoColor=000" /> Lab-Z Tech Ekosistemi
+### <img src="https://img.shields.io/badge/04-aff33e?style=flat-square&logoColor=0f172a" /> Lab-Z Tech Ekosistemi
 
 > Çok kullanıcılı modüler SaaS altyapısı
 
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs)
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
-![AI](https://img.shields.io/badge/AI_Agents-8338EC?style=flat-square)
+![AI](https://img.shields.io/badge/AI_Agents-334155?style=flat-square)
 
 - 🧠 AI ajanları entegrasyonlu Vibe Coding
 - 📦 Özel npm paketleri & Design System
@@ -210,11 +210,11 @@
 <tr>
 <td width="50%">
 
-### <img src="https://img.shields.io/badge/05-EF476F?style=flat-square" /> Modüler E-Ticaret
+### <img src="https://img.shields.io/badge/05-334155?style=flat-square" /> Modüler E-Ticaret
 
 > Firmaların kendi marka kimlikleriyle kullanabileceği platform
 
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs)
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
 
@@ -225,7 +225,7 @@
 </td>
 <td width="50%">
 
-### <img src="https://img.shields.io/badge/06-073B4C?style=flat-square" /> Hastane Otomasyon
+### <img src="https://img.shields.io/badge/06-0f172a?style=flat-square" /> Hastane Otomasyon
 
 > Rol Tabanlı güvenli hastane yönetim sistemi
 
@@ -253,13 +253,13 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/📦_Lojistik_&_Tedarik_Zinciri-0d1117?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/🛒_E--Ticaret_&_Pazaryeri-0d1117?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/💡_SaaS_Mimarisi-0d1117?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/📦_Lojistik_&_Tedarik_Zinciri-0f172a?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🛒_E--Ticaret_&_Pazaryeri-0f172a?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/💡_SaaS_Mimarisi-0f172a?style=for-the-badge&logoColor=white" />
 <br/>
-<img src="https://img.shields.io/badge/🏢_Kurumsal_Otomasyon-0d1117?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/💰_FinTech_Sistemleri-0d1117?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/🤖_AI_Entegrasyon-0d1117?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🏢_Kurumsal_Otomasyon-0f172a?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/💰_FinTech_Sistemleri-0f172a?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🤖_AI_Entegrasyon-0f172a?style=for-the-badge&logoColor=white" />
 
 </div>
 
@@ -284,6 +284,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8338EC,50:118AB2,100:06D6A0&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:aff33e,100:334155&height=100&section=footer" width="100%" />
 
 </div>
