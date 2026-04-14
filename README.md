@@ -305,34 +305,9 @@ flowchart LR
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <br/>
 
 <div align="center">
-
-## 📊 &nbsp; GitHub İstatistikleri
-
-<br/>
-
-<!-- Stats & Streak yan yana -->
-<a href="https://github.com/hascanb">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hascanb&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=06D6A0&icon_color=FFD166&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-&nbsp;
-<a href="https://github.com/hascanb">
-  <img width="49%" src="https://streak-stats.demolab.com?user=hascanb&hide_border=true&background=0d1117&stroke=06D6A0&ring=06D6A0&fire=FFD166&currStreakLabel=06D6A0&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&card_width=500" />
-</a>
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hascanb&bg_color=0d1117&color=06D6A0&line=8338EC&point=FFD166&area=true&area_color=06D6A0&hide_border=true&custom_title=Contribution%20Graph" />
-
-<br/><br/>
 
 <!-- Snake Animation -->
 <picture>
